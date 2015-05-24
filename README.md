@@ -3,6 +3,16 @@ Docker ElasticSearch
 
 Docker image for ElasticSearch add Plugin
 
+Plugins
+====
+
+* elasticsearch-analysis-kuromoji
+    * https://github.com/elastic/elasticsearch-analysis-kuromoji
+    * Set Default Analyzer
+
+* elasticsearch-head
+    * https://github.com/mobz/elasticsearch-head
+
 usage
 =====
 
